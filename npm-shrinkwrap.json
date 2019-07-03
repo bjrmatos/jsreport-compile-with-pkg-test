@@ -106,9 +106,9 @@
       "dev": true
     },
     "@types/node": {
-      "version": "12.0.10",
-      "resolved": "https://registry.npmjs.org/@types/node/-/node-12.0.10.tgz",
-      "integrity": "sha512-LcsGbPomWsad6wmMNv7nBLw7YYYyfdYcz6xryKYQhx89c3XXan+8Q6AJ43G5XDIaklaVkK3mE4fCb0SBvMiPSQ==",
+      "version": "12.0.12",
+      "resolved": "https://registry.npmjs.org/@types/node/-/node-12.0.12.tgz",
+      "integrity": "sha512-Uy0PN4R5vgBUXFoJrKryf5aTk3kJ8Rv3PdlHjl6UaX+Cqp1QE0yPQ68MPXGrZOfG7gZVNDIJZYyot0B9ubXUrQ==",
       "dev": true
     },
     "abbrev": {
@@ -5632,7 +5632,7 @@
       }
     },
     "jsreport-cli": {
-      "version": "github:jsreport/jsreport-cli#7857e92572333fc6aecb66ff02843131cf2ec108",
+      "version": "github:jsreport/jsreport-cli#ce96462f8532adc0e023eaf0574bb6890a5f05ae",
       "from": "github:jsreport/jsreport-cli#pkg-compile",
       "requires": {
         "chalk": "2.4.2",
@@ -5846,7 +5846,7 @@
       }
     },
     "jsreport-compile": {
-      "version": "github:jsreport/jsreport-compile#989d9e5597178564d652fd1fc186475e4640fecd",
+      "version": "github:jsreport/jsreport-compile#0c5089e51410c54ea873eb7f264de099399726a3",
       "from": "github:jsreport/jsreport-compile#extensions-commands-and-pkg",
       "dev": true,
       "requires": {
