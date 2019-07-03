@@ -5632,7 +5632,7 @@
       }
     },
     "jsreport-cli": {
-      "version": "github:jsreport/jsreport-cli#0c69bb4ccd21ef3ba0f1dcb434a4cbb933651135",
+      "version": "github:jsreport/jsreport-cli#7857e92572333fc6aecb66ff02843131cf2ec108",
       "from": "github:jsreport/jsreport-cli#pkg-compile",
       "requires": {
         "chalk": "2.4.2",
